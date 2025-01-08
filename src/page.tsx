@@ -45,7 +45,7 @@ conclusion: It begins with 1 billion coins. It ends with one world, held firm un
 
   return (
     <div className="min-h-screen bg-back text-sms text-white flex flex-col md:text-sm">
-      <header className="p-4 mb-12 sm:mb-5">
+      <header className="p-4 mb-12 font-mono-space text-wit tracking-wide sm:mb-5">
         <a
           href="/"
           target="_blank"
@@ -53,17 +53,15 @@ conclusion: It begins with 1 billion coins. It ends with one world, held firm un
           title="sphincter coin - Farts from Buttholes can’t happen without a Sphincter."
         >
           <div className="max-w-7xl mx-auto flex justify-center lg:justify-start">
-            <div className="flex flex-col items-start lg:justify-start">
+            <div className="flex flex-col items-start text-wit lg:justify-start">
               <span className="text-xs font-light item-start ml-3">
-                copus-tutor &gt;
+                copus-tutor&gt;
               </span>
               <span className="text-xs font-light item-start ml-3">
                 First choice! Sphincter{" "}
-                <span className="bg-gold text-black">coin</span> . After all a
-                fart cannot exist without a butthole
-              </span>
-              <span className="text-xs font-light item-start ml-3">
-                and a butthole cannot function without a sphincter.
+                <span className="bg-gold text-black">coin</span> . After all, a
+                fart cannot exist without a butthole and a butthole cannot
+                function without a sphincter.
               </span>
               <span className="text-xs font-light item-start ml-3">...</span>
               <img
