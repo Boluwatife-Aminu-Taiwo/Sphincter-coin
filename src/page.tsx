@@ -101,7 +101,7 @@ conclusion: It begins with 1 billion coins. It ends with one world, held firm un
       <footer className="p-6 border-t border-gray-800 mt-20">
         <div className="max-w-4xl mx-auto flex flex-wrap justify-center items-center gap-8">
           <a
-            href="hhttps://pump.fun"
+            href="https://pump.fun/board"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-75 transition-opacity"
